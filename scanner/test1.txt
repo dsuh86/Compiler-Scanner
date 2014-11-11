@@ -1,0 +1,24 @@
+//the beginning of the program
+program test2;
+var
+	doe, bread, arm_leg:money;
+	a,b,ab:string; //type string
+	c,d,cd:int; //type integer
+	e,gee:float;//float type
+begin //body
+	a:="bad";
+	b:="cat";
+	ab:=a+b; //merge strings
+	c:=12345;
+	d:=12,345,123;
+	e:=[-12,345,123];
+	bread=$12,123.05+arm_leg;
+	cd:=c+d; //add unsigned integers
+	e:=444,444.13;
+	f:=[-444,444.13];
+	gee:=c+e+3.1415^+002; //add singed integers and reals
+	readln[A:file.txt];
+	writeln[A:test];
+	for (a:=1; a<=10; ++a)
+		readln("almost finished!");
+end. //end program
